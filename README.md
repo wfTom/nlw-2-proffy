@@ -26,7 +26,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/wfTom">Tom</a>
+    <a href="https://github.com/wfTom">wfTom</a>
   </sub>
 </div>
 
@@ -35,7 +35,7 @@
   <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-funcionalidades">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction_worker-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
