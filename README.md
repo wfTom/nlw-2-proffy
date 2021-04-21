@@ -1,10 +1,7 @@
 # nlw-2-proffy
 
-🚀 Project made to connect teachers to students. Made in Next Level Week #2 #NLW
-@Rocketseat
-
 <p align="center">
-   <img src="./logo.png" alt="Proffy" width="280"/>
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
 
 <p align="center">
@@ -36,6 +33,7 @@
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-funcionalidades">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction_worker-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -85,6 +83,8 @@ This project was made using the follow technologies:
 - [ReactJS](https://reactjs.org/)
 - [Expo](https://expo.io/)
 - [React Native](http://facebook.github.io/react-native/)
+
+# :rocket: Funcionalidades
 
 - Website to sign up teachers and students.
 - App to connect teachers and students.
@@ -161,9 +161,9 @@ on emulator.
 
 # :closed_book: License
 
-Released in 2020 :closed_book: License
+Released in 2021 :closed_book: License
 
-Made with love by [Tom](https://github.com/wfTom) 🚀. This project is under the
-[MIT license](./LICENSE).
+Made with love by [wfTom](https://github.com/wfTom) 🚀. This project is under
+the [MIT license](./LICENSE).
 
 Give a ⭐️ if this project helped you!
