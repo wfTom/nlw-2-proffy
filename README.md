@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-funcionalidades">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#construction_worker-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,19 +42,19 @@
   <img alt="design do projeto" width="650px" src="./.github/design.png" />
 <p>
 
-## :bookmark: Sobre
+## :bookmark: About
 
-O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre
-os alunos e os professores. Logo, esta aplicação oferece aos professores a
-possibilidade de registrar aulas, podendo adicionar informações como a
-disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas
-cadastradas.
+The **Proffy** is a Web and Mobile application designed to assist in the
+connection between students and teachers. So, this application offers teachers
+the possibility to register classes, being able to add information such as the
+discipline, cost and timetable and students the possibility to search for
+classes indexed.
 
-Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o
-**Dia Nacional dos Profissionais da Educação**.
+This project was conceived thinking of the **6 of August**, where the **National
+Day of Education Professionals**.
 
-Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da
-[Rocketseat](https://rocketseat.com.br/).
+This application was carried out during the **Next Level Week # 2**, a project
+by [Rocketseat](https://rocketseat.com.br/).
 
 ### Web Screenshot
 
@@ -91,16 +91,16 @@ This project was made using the follow technologies:
 
 # :boom: How to run
 
-- ### **Pré-requisitos**
+- ### **Requirements**
 
-  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado
-    no computador
-  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e
-    configurado no computador
-  - Também, é **preciso** ter um gerenciador de pacotes seja o
-    **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
-  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de
-    forma global na máquina
+  - It is **necessary** to have **[Node.js](https://nodejs.org/en/)** installed
+    on the computer.
+  - It is **optional** to have **[Git](https://git-scm.com/)** installed and
+    configured on the computer, but it is better to have.
+  - Also, it is **necessary** to have a package manager be the
+    **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**.
+  - Finally, it is **essential** to have **[Expo](https://expo.io/)** installed
+    general shape on the machine.
 
 ```bash
 # Clone Repository
@@ -116,7 +116,7 @@ $ cd nlw-2-proffy/server
 # Install Dependencies
 $ yarn install
 
-# Run Aplication
+# Run Application
 $ yarn start
 ```
 
@@ -131,7 +131,7 @@ $ cd nlw-2-proffy/web
 # Install Dependencies
 $ yarn install
 
-# Run Aplication
+# Run Application
 $ yarn start
 ```
 
@@ -151,7 +151,7 @@ $ cd nlw-2-proffy/mobile
 # Install Dependencies
 $ yarn install
 
-# Run Aplication
+# Run Application
 $ yarn start
 ```
 
