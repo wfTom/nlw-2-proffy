@@ -155,7 +155,7 @@ $ yarn install
 $ yarn start
 ```
 
-Aferter read the QRCode with the app of
+After read the QRCode with the app of
 [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run
 on emulator.
 
